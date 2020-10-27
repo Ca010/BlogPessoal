@@ -1,0 +1,49 @@
+/*Estilos da pagina index.html*/
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*afastar texto da imagem*/
+
+.p-30 {
+    padding: 15px;
+}
+
+.poster {
+    width: 300px;
+    height: 300px;
+}
+
+.carrossel {
+    width: 400px;
+    height: 400px;
+}
+
+
+/*tamanho dos icons*/
+
+.tm-icon {
+    width: 80px;
+    height: 80ps;
+}
+
+
+/*tamanho dos logos social*/
+
+.tm-social {
+    width: 70px;
+    height: 70ps;
+}
+
+.mb-50 {
+    margin-bottom: 80px;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
